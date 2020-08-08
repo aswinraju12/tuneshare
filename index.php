@@ -3,22 +3,21 @@
     <div class="cover-container d-flex w-100 h-100 p-3 mx-auto flex-column">
   <header class="masthead mb-auto">
     <div class="inner">
-      <h3 class="masthead-brand">TuneShare</h3>
+      <h3 class="masthead-brand">Journal Entry</h3>
       <nav class="nav nav-masthead justify-content-center">
-        <a class="nav-link" href="index.php">Home</a>
-        <a class="nav-link" href="add.php">Share Your Tune</a>
-        <a class="nav-link" href="view.php">View Playlists</a>
+      <a class="nav-link" href="index.php">Home</a>
+        <a class="nav-link" href="add.php">Add Journal Entry</a>
+        <a class="nav-link" href="view.php">View Journal</a>
       </nav>
     </div>
   </header>
 
   <main role="main" class="inner cover">
-    <h1 class="cover-heading">Join The TuneShare Community.</h1>
-    <p class="lead">Need a new WFH playlist? We've got you covered. Join our community and connect with fellow music-lovers. Share your top bops and browse what others are listening too. </p>
+    <p class="lead">add your journal for the day!</p>
     <!-- I had to Google what bop meant. I am very uncool -->
     <p class="lead">
-      <a href="add.php" class="btn btn-lg btn-secondary">Share Your Top Tune</a>
-      <a href="#" class="btn btn-lg btn-secondary orange">Browse Tunes </a>
+      <a href="signup.php" class="btn btn-lg btn-secondary">Sign Up</a>
+      <a href="login.php" class="btn btn-lg btn-secondary orange">Login</a>
     </p>
   </main>
   <footer class="mastfoot mt-auto">
